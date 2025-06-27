@@ -39,7 +39,7 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+- ![Milestones](assets/Milestones.png) 
 
 ### B. Project Board
 
