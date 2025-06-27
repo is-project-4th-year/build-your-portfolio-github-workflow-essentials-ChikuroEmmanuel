@@ -56,5 +56,8 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 - Pull requests were used to review changes from feature branches before merging to `main`. I assigned myself as the reviewer for each pull request.
 
 ### E. Merge Conflict Resolution
+- ![Merge Conflicts](assets/Mergeconflict.png)
+- ![Merge Conflicts](assets/Mergeresolution.png)
+- ![Merge Conflicts](assets/Successfulmerge.png)
 
 - 
