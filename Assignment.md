@@ -14,10 +14,10 @@
 ## 3. Learnings from the Git Crash Program
 
 **Four key concepts** 
-**Branching**: Helped me separate features and prevent conflicts when working on different site sections. 
-**Commit Messages**: Using structured and meaningful commit messages helped me track changes clearly. It became easier to understand what was done at each stage. An Example of a commit message I used was: "feat: add an avatar icon for chikuro".
-**Pull Requests and Code Review**: Pull requests enabled me to review and test changes before merging them into the main branch. I also put myself as the reviewer since it was a personal project portfolio. 
-**Issues and Milestones**: Creating issues for each task and linking them to milestones helped break down the work into small, manageable parts. It gave me a clear roadmap and helped track progress toward completing sections of the portfolio
+-**Branching**: Helped me separate features and prevent conflicts when working on different site sections. 
+-**Commit Messages**: Using structured and meaningful commit messages helped me track changes clearly. It became easier to understand what was done at each stage. An Example of a commit message I used was: "feat: add an avatar icon for chikuro".
+-**Pull Requests and Code Review**: Pull requests enabled me to review and test changes before merging them into the main branch. I also put myself as the reviewer since it was a personal project portfolio. 
+-**Issues and Milestones**: Creating issues for each task and linking them to milestones helped break down the work into small, manageable parts. It gave me a clear roadmap and helped track progress toward completing sections of the portfolio
 
 
 ## 4. Screenshots of Key GitHub Features
