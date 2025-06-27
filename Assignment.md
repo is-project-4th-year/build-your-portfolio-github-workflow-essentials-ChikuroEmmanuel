@@ -39,19 +39,21 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### A. Milestones and Issues
 
-- ![Milestones](assets/Milestones.png) 
+- ![Milestones](assets/Milestones.png)
+- I used milestones to group related issues under major deliverables like "Landing Page" and "Personal Profile". This helped track progress at a higher level and ensured I stayed on schedule for completing key project phases.
 
 ### B. Project Board
 
-- ![Project Board](assets/Project Board.png)
-
+- ![Project Board](assets/ProjectBoard.png) 
+- This board helped me organize all tasks using columns like *To Do*, *In Progress*, and *Done*. Each issue was dragged to the appropriate column as progress was made.
 ### C. Branching
 
-- ![Branching](assets/Branches Description.png)
+- ![Branching](assets/Branches.png)
+- This screenshot shows the different branches I created for separate features. Branching helped me avoid conflicts by allowing feature development in isolation before merging to `main`.
 
 ### D. Pull Requests
-
-- ![Merge Request](assets/Megre Request for Profile Information)
+- ![Pull Requests](assets/MergeRequest.png)
+- Pull requests were used to review changes from feature branches before merging to `main`. I assigned myself as the reviewer for each pull request.
 
 ### E. Merge Conflict Resolution
 
