@@ -43,15 +43,15 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### B. Project Board
 
-- ![Project Board](assets/Project Board.png)
+- ![Project Board](assets/ProjectBoard.png) 
 
 ### C. Branching
 
-- ![Branching](assets/Branches Description.png)
+- ![Milestones](assets/BranchesDescription.png) 
 
 ### D. Pull Requests
 
-- ![Merge Request](assets/Megre Request for Profile Information)
+- ![Milestones](assets/MergeRequest.png) 
 
 ### E. Merge Conflict Resolution
 
