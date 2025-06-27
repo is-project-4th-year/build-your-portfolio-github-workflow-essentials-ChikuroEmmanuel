@@ -43,16 +43,16 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+- ![Project Board](assets/Project Board.png)
 
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
+- ![Branching](assets/Branches Description.png)
 
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+- ![Merge Request](assets/Megre Request for Profile Information)
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+- 
