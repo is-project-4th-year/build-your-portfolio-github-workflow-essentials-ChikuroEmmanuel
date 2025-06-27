@@ -14,7 +14,8 @@
 ## 3. Learnings from the Git Crash Program
 
 **Four key concepts** 
-- **Branching**: Helped me separate features and prevent conflicts when working on different site sections. 
+- **Branching**:
+  - Helped me separate features and prevent conflicts when working on            different site sections. 
 - **Commit Messages**:
   - Using structured and meaningful commit messages helped me track changes.
   - It became easier to understand what was done at each stage. An Example       of a commit message I used was: "feat: add an avatar icon for chikuro".
