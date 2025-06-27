@@ -2,9 +2,9 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Chikuro Emmanuel Mbaji
+- **GitHub Username**: ChikuroEmmanuel
+- **Email**: Chikuro.Mbaji@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
