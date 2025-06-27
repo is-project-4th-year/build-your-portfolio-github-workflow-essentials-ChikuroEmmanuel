@@ -47,11 +47,11 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### C. Branching
 
-- ![Milestones](assets/BranchesDescription.png) 
+- ![Milestones](assets/Branches.png) 
 
 ### D. Pull Requests
 
-- ![Milestones](assets/MergeRequest.png) 
+- ![Pull Requests](assets/MergeRequest.png) 
 
 ### E. Merge Conflict Resolution
 
