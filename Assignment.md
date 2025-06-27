@@ -40,24 +40,37 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ### A. Milestones and Issues
 
 - ![Milestones](assets/Milestones.png)
+
 - I used milestones to group related issues under major deliverables like "Landing Page" and "Personal Profile". This helped track progress at a higher level and ensured I stayed on schedule for completing key project phases.
 
 ### B. Project Board
 
 - ![Project Board](assets/ProjectBoard.png) 
+
 - This board helped me organize all tasks using columns like *To Do*, *In Progress*, and *Done*. Each issue was dragged to the appropriate column as progress was made.
 ### C. Branching
 
 - ![Branching](assets/Branches.png)
+
 - This screenshot shows the different branches I created for separate features. Branching helped me avoid conflicts by allowing feature development in isolation before merging to `main`.
 
 ### D. Pull Requests
+
 - ![Pull Requests](assets/MergeRequest.png)
+
 - Pull requests were used to review changes from feature branches before merging to `main`. I assigned myself as the reviewer for each pull request.
 
 ### E. Merge Conflict Resolution
 - ![Merge Conflicts](assets/Mergeconflict.png)
+
+- I simulated a merge conflict by editing the same line in two different branches i.e main and favourite animal branch, then after performing a pull request comparing changes between the two branches.
+
 - ![Merge Conflicts](assets/Mergeresolution.png)
+
+- This step involves resolving the conflicts in my local vs code as i can track clearly where the problem is. I chose to accept only the main branch line instead of merging the two.
+
 - ![Merge Conflicts](assets/Successfulmerge.png)
 
-- 
+- This steps confirm that i resolved my merge conflicts.
+
+
